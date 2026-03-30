@@ -1,0 +1,23 @@
+Yixuan Li, José Wesley de Souza Magalhães, Alexander Brauckmann, Michael F. P. O'Boyle, and Elizabeth Polgreen. 2025. Guided Tensor Lifting. Proc. ACM Program. Lang. 9, PLDI, Article 227 (June 2025), 23 pages. https://doi.org/10.1145/3729330
+
+Xiangyu Gao, Xiangfeng Zhu, Bhavana Vannarth Shobhana, Yiwei Yang, Arvind Krishnamurthy, and Ratul Mahajan. 2025. Offloading the Tedious Task of Writing eBPF Programs. In Proceedings of the 3rd Workshop on eBPF and Kernel Extensions (eBPF '25). Association for Computing Machinery, New York, NY, USA, 63–69. https://doi.org/10.1145/3748355.3748369
+
+Pankaj Kumar Kalita, Sujit Kumar Muduli, Loris D’Antoni, Thomas Reps, and Subhajit Roy. 2022. Synthesizing abstract transformers. Proc. ACM Program. Lang. 6, OOPSLA2, Article 171 (October 2022), 29 pages. https://doi.org/10.1145/3563334
+
+Katsumi Okuda and Saman Amarasinghe. 2024. AskIt: Unified Programming Interface for Programming with Large Language Models. In Proceedings of the 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO '24). IEEE Press, 41–54. https://doi.org/10.1109/CGO57630.2024.10444830
+
+Sathvik Joel, Jie Wu, and Fatemeh Fard. 2025. A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages. ACM Trans. Softw. Eng. Methodol. Just Accepted (October 2025). https://doi.org/10.1145/3770084
+
+Ce Guo and Tong Zhao. 2025. ResBench: A Resource-Aware Benchmark for LLM-Generated FPGA Designs. In Proceedings of the 15th International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART '25). Association for Computing Machinery, New York, NY, USA, 25–34. https://doi.org/10.1145/3728179.3728192
+
+Mariano Barone, Antonio Romano, Giuseppe Riccio, Marco Postiglione, and Vincenzo Moscato. 2025. Combating Biomedical Misinformation through Multi-modal Claim Detection and Evidence-based Verification. In Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25). Association for Computing Machinery, New York, NY, USA, 4025–4029. https://doi.org/10.1145/3726302.3730155
+
+Manar Abdelatty, Jingxiao Ma, and Sherief Reda. 2025. MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs. In Proceedings of the 30th Asia and South Pacific Design Automation Conference (ASPDAC '25). Association for Computing Machinery, New York, NY, USA, 995–1001. https://doi.org/10.1145/3658617.3697625
+
+Kaiyan Chang, Wenlong Zhu, Kun Wang, Xinyang He, Nan Yang, Zhirong Chen, Dantong Jin, Cangyuan Li, Yunhao Zhou, Hao Yan, Zhuoliang Zhao, Yuan Cheng, Mengdi Wang, Shengwen Liang, Yinhe Han, Xiaowei Li, Huawei Li, and Ying Wang. 2025. A data-centric chip design agent framework for Verilog code generation. ACM Trans. Des. Autom. Electron. Syst. 30, 6, Article 93 (November 2025), 27 pages. https://doi.org/10.1145/3727980
+
+Yi Gao, Xing Hu, Xiaohu Yang, and Xin Xia. 2025. Automated Unit Test Refactoring. Proc. ACM Softw. Eng. 2, FSE, Article FSE033 (July 2025), 21 pages. https://doi.org/10.1145/3715750
+
+Chen Yang, Junjie Chen, Bin Lin, Ziqi Wang, and Jianyi Zhou. 2025. Advancing Code Coverage: Incorporating Program Analysis with Large Language Models. ACM Trans. Softw. Eng. Methodol. Just Accepted (July 2025). https://doi.org/10.1145/3748505
+
+Weisong Sun, Yun Miao, Yuekang Li, Hongyu Zhang, Chunrong Fang, Yi Liu, Gelei Deng, Yang Liu, and Zhenyu Chen. 2025. Source Code Summarization in the Era of Large Language Models. Proceedings of the IEEE/ACM 47th International Conference on Software Engineering. IEEE Press, 1882–1894. https://doi.org/10.1109/ICSE55347.2025.00034
